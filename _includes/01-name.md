@@ -1,3 +1,3 @@
 # This is an <h1> header, which is the largest
 ## Rasika Dahibhate
-###### This is an <h6> header, which is the smallest
+##### This is an <h6> header, which is the smallest
